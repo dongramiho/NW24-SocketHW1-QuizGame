@@ -1,0 +1,10 @@
+Q1. Write the layer that best match of link layer, frame
+Q2. Write the layer that best match of transport layer, segment
+Q3. Write the layer that best match of network layer, datagram
+Q4. Write the protocol used to send emails over the Internet, SMTP
+Q5. Write the Protocol used to read or manage emails stored on an email server, IMAP
+Q6. The concept of converting data in a distributed manner without centralized control over the network, Decentralized Switching
+Q7. What method does socket programming use when a client attempts to connect with a server?, connect()
+Q8. In TCP/IP socket programming what class name does the server use to wait for a client's connection request?, ServerSocket
+Q9. If the connection with the server is successfully established after the client sends a connection request to the server than what does the server use to communicate with the client?, socket
+Q10. In socket communication what is the method to indicate when the server is waiting for a client's connection request?, accept()
